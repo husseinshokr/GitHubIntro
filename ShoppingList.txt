@@ -5,3 +5,4 @@ Orenges
 Bananas:
 Cherries:
 Carrots
+Cereal
